@@ -1,0 +1,23 @@
+{
+    "chromeWebSecurity": false,
+    "env": {
+        "asda" : {
+            "address": {
+                "latitude": "LATITUDE_HERE",
+                "longitude": "LONGITUDE_HERE",
+                "postcode": "POSTCODE_HERE"  
+            },
+            "account_id": "ACCOUNT_ID_HERE"
+        },
+        "tesco": {
+            "username":"USERNAME",
+            "password": "PASSWORD"
+        },
+        "twillio": {
+            "accountSid": "ACCOUNT_SID",
+            "authToken": "AUTH_TOKEN",
+            "fromNumber": "FROM_NUMBER",
+            "toNumber": "TO_NUMBER"
+        }
+    }
+}
